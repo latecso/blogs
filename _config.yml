@@ -1,10 +1,10 @@
 # SITE CONFIGURATION
-title: LaTecSo Blogs # your site title
+title: LaSchool Blogs # your site title
 author: LaTecSo Admin # You :P
 description: > # Meta description of Homepage
   LaTecSo aims at addressing the challenges faced by legal sector by providing multiple technology-based solutions. The products being developed by LaTecSo addresses the day-to-day challenges faced by the stakeholder in legal sector. LaTecSo aims at solving technological problems faced by a wide range of stakeholders including Law Firms, Law Students, Legal Practitioners, Customers of Legal Services, Legal Authorities, etc. Right from solving the basic issues like filling the communication gap to solving complex issues like dispute resolution, LaTecSo empowers legal sector and makes access to justice easier for everyone.
 baseurl: "/blogs" # the subpath of your site, e.g. /blog
-url: "https://latecso.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blogs.laschool.online/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
